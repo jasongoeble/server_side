@@ -1,4 +1,4 @@
-var http = require("HTTP");
+var http = require("http");
 
 var PORT1 = 7000;
 var PORT2 = 7500;
